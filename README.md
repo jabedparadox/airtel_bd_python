@@ -8,7 +8,7 @@
 
 ## How it works.
 
-[![Watch the video](https://img.youtube.com/vi/vXMymivut2M/maxresdefault.jpg)](https://youtu.be/vXMymivut2M)
+[](https://img.youtube.com/vi/vXMymivut2M/maxresdefault.jpg)](https://youtu.be/vXMymivut2M)
 
 Clone the project,
 
