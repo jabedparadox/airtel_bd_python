@@ -8,12 +8,15 @@
 
 ## How it works.
 
-[](https://img.youtube.com/vi/vXMymivut2M/maxresdefault.jpg)](https://youtu.be/vXMymivut2M)
+![myfile](https://github.com/jabedparadox/airtel_bd_python/blob/main/airtel_web.gif)
 
 Clone the project,
 
 ```sh
 $ git clone https://github.com/jabedparadox/airtel_bd_python.git
+$ cd airtel_bd_python
+$ pip install dependencies
+$ python2 init.py
 ```
 
 ## Library   
@@ -33,3 +36,4 @@ $ pip install tabulate
 
 ```
 # 
+
